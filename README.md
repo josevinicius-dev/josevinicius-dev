@@ -8,8 +8,8 @@
 ### Habilidades 💻
 <div align="center">
   <a href="https://github.com/josevinicius-dev">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=euviniciusdev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=euviniciusdev&layout=compact&langs_count=7&theme=dark"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=josevinicius-dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josevinicius-dev&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
 <div style="display: inline_block" align="center"><br>
